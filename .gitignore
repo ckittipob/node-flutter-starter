@@ -1,0 +1,7 @@
+node_modules
+server/build
+docker-compose.origin
+.cheatsheet
+worker
+d.yml
+nginx
