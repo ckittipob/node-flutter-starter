@@ -13,6 +13,8 @@ cd into project directory
 docker-compose up --build
 ```
 
+Open http://localhost with your browser to explore application.
+
 #### Authentication
 username: test@test.com
 password: 123456
